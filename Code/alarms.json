@@ -1,0 +1,14 @@
+[
+    {
+        "time": "07:00",
+        "label": "Alarm",
+        "enabled": false,
+        "triggered": false
+    },
+    {
+        "time": "09:00",
+        "label": "Class",
+        "enabled": false,
+        "triggered": false
+    }
+]
