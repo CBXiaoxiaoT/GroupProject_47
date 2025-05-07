@@ -5,7 +5,7 @@ This is a little group project in University of gourp47
 
 The libraries we use are all open-source:
 
-## Standard Library Modules (no install needed)
+Standard Library Modules (no install needed)
 
 1. [json](https://docs.python.org/3/library/json.html) — https://docs.python.org/3/library/json.html  
 2. [sqlite3](https://docs.python.org/3/library/sqlite3.html) — https://docs.python.org/3/library/sqlite3.html  
@@ -15,7 +15,7 @@ The libraries we use are all open-source:
 6. [typing](https://docs.python.org/3/library/typing.html) — https://docs.python.org/3/library/typing.html  
 7. [datetime](https://docs.python.org/3/library/datetime.html) — https://docs.python.org/3/library/datetime.html  
 
-## Third-Party Libraries (install via pip)
+Third-Party Libraries (install via pip)
 
 1. [PyQt6](https://pypi.org/project/PyQt6/) — https://pypi.org/project/PyQt6/  
 2. [numpy](https://numpy.org/) — https://numpy.org/  
